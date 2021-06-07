@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586842119739",
+    "project_id": "flash-chat-85ea2",
+    "storage_bucket": "flash-chat-85ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586842119739:android:576ba4b3138e5c16ff061e",
+        "android_client_info": {
+          "package_name": "hemakshi.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586842119739-0g8lvtgolq1rhd6hl980dj9jsbqtpn7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRUuo3DaEDND2rLH7Vv-0In6s26lgde8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586842119739-0g8lvtgolq1rhd6hl980dj9jsbqtpn7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
